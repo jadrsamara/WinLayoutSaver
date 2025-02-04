@@ -1,4 +1,4 @@
-# Windows-Manager
+# WinLayoutSaver for Windows
 Python program to save Windows's windows' positions :)
 
 I personally use it to resize Discord and move it to a specific position on my second screen
